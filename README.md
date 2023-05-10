@@ -1,9 +1,6 @@
 # bharat-intern-project-managment
-# ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/pmTicket-logo.png "Cover")
-
 ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/cover.png "Cover")
 
-# ![alt text](https://raw.githubusercontent.com/issue-tracking-system/pmTicket/master/screenshots/its.png "Cover")
 
 
 #### Fast, Clean, Responsive, Multilanguage, Email Syncing, Subdomain support, etc.
